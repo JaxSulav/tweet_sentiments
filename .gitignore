@@ -1,0 +1,7 @@
+data/
+env/
+.ipynb_checkpoints/
+cc.en.300.bin
+cc.en.300.bin.gz
+.DS_Store
+sentiment_model.bin
